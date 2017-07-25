@@ -1,3 +1,3 @@
-# GSTDemoApp
+# DemoApp
 
-<h1>An Application to call GST API RESTful Services.</h1>
+<h1>An Application to call API RESTful Services.</h1>
